@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+*.sql
+*.bak
+*.zip
+.DS_Store
+Thumbs.db
+/vendor/
+/node_modules/
